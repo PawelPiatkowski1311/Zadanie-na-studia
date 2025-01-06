@@ -1,1 +1,1 @@
-To jest plik readme
+To jest plik readme, ale wyedytowany
